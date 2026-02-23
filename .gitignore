@@ -1,5 +1,6 @@
 # Unreal build and intermediate files
 Binaries/
+Build/
 DerivedDataCache/
 Intermediate/
 Saved/
