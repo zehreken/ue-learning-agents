@@ -6,7 +6,7 @@ To run TensorBoard, go to C:\Program Files\Epic Games\UE_5.5\Engine\Binaries\Thi
 .\tensorboard.exe --logdir="C:\Users\zehre\Documents\Dev\Unreal Projects\ue-learning-agents\Intermediate\LearningAgents\TensorBoard\runs"
 
 To start headless mode, go to C:\Users\zehre\Documents\Dev\Unreal Projects\ue-learning-agents\Saved\StagedBuilds\Windows\UELearningAgents\Binaries\Win64
-If it does not exist you need to build(cool)
+If it does not exist you need to build(cook)
 .\UELearningAgents.exe VehicleExampleMap -nullrhi -nosound -log -log=car_learning.log
 
 Snapshots are here
